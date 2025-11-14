@@ -1,4 +1,6 @@
-I will upload my PPT once converting it to pdf
+Uploaded files:
+1) qkd model in an jupyter notebook file
+2) a pdf of the required presentation
 
 ---------------------------------------------
 
